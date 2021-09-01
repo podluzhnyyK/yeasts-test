@@ -1,4 +1,4 @@
-# Pink
+# yeasts
 
 - Contains configuration for `gulp`, `stylelint`, `eslint`
 - CSS preprocessor `SCSS`
